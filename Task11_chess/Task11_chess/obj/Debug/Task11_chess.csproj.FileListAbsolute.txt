@@ -1,0 +1,15 @@
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\bin\Debug\Task11_chess.exe.config
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\bin\Debug\Task11_chess.exe
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\bin\Debug\Task11_chess.pdb
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\Task11_chess.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\MainWindow.g.cs
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\App.g.cs
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\Task11_chess_MarkupCompile.cache
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\Task11_chess_MarkupCompile.lref
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\MainWindow.baml
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\Task11_chess.g.resources
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\Task11_chess.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\Task11_chess.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\Task11_chess.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\Task11_chess.exe
+C:\Users\Windows 10\source\repos\Task11_chess\Task11_chess\obj\Debug\Task11_chess.pdb
